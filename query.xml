@@ -1,0 +1,5 @@
+
+
+<query>
+    <sql>SELECT * FROM users WHERE age >= [params.age]</sql>
+</query>
